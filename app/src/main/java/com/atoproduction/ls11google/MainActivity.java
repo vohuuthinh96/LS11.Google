@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
         // sua code o nhanh demo
 
+        // sua code o nhanh master
+
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestEmail()
                 .build();
